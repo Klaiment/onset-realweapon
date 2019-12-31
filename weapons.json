@@ -43,7 +43,7 @@
 			"SpreadCrouchingModifier": -0.3
 		},
 		{
-			"Name": "Glock 22",
+			"Name": "Glock 17",
 			"RateOfFire": 150.0,
 			"Damage": 22.0,
 			"Range": 7400.0,
@@ -57,7 +57,7 @@
 			"SpreadCrouchingModifier": -0.3
 		},
 		{
-			"Name": "Pistolet Lourd",
+			"Name": "Beretta 92 - CopsEdition",
 			"RateOfFire": 100.0,
 			"Damage": 29.0,
 			"Range": 7000.0,
@@ -99,7 +99,7 @@
 			"SpreadCrouchingModifier": -0.3
 		},
 		{
-			"Name": "MP5",
+			"Name": "MP5SD",
 			"RateOfFire": 520.0,
 			"Damage": 19.0,
 			"Range": 7500.0,
@@ -113,7 +113,7 @@
 			"SpreadCrouchingModifier": -0.3
 		},
 		{
-			"Name": "UZI",
+			"Name": "MAC-10",
 			"RateOfFire": 630.0,
 			"Damage": 12.0,
 			"Range": 6000.0,
@@ -141,7 +141,7 @@
 			"SpreadCrouchingModifier": -0.3
 		},
 		{
-			"Name": "M4A1",
+			"Name": "M16",
 			"RateOfFire": 450.0,
 			"Damage": 29.0,
 			"Range": 10000.0,
@@ -197,7 +197,7 @@
 			"SpreadCrouchingModifier": -0.3
 		},
 		{
-			"Name": "Fusil silencieux",
+			"Name": "AS VAL",
 			"RateOfFire": 240.0,
 			"Damage": 30.0,
 			"Range": 9800.0,
@@ -239,7 +239,7 @@
 			"SpreadCrouchingModifier": -0.3
    		},
 		{
-			"Name": "Fusil d'assaut",
+			"Name": "SPAR16",
 			"RateOfFire": 450.0,
 			"Damage": 22.0,
 			"Range": 9800.0,
